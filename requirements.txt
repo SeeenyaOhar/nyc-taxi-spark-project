@@ -1,3 +1,5 @@
 pyspark
 pandas
 py4j
+seaborn
+matplotlib
